@@ -11,4 +11,3 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 // root.render(<App />) : Ye line React app ka starting point hai — isse React component (<App />) ko DOM (web page) mein render kiya jata hai.
 // React component ko screen (browser) par dikhana.
 root.render(<App />);
-
